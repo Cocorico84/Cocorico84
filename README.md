@@ -1,6 +1,6 @@
 <h2> Hi, I'm Corentin ! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-<p><em>Software Developer at <a href="http://www.fanrpime.io">Fanprime</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<img align='right' src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="230">
+<p><em>Software Developer at <a href="http://www.fanprime.io">Fanprime</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
 
