@@ -1,6 +1,6 @@
 <h2> Hi, I'm Corentin ! </h2>
 <img align='right' src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="230">
-<p><em>Software Developer at <a href="http://www.fanprime.io">Fanprime</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p><em>Software Developer at <a href="http://www.fanprime.io">Fanprime</a>
 </em></p>
 
 
