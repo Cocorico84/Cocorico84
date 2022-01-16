@@ -13,7 +13,7 @@
 corentin = {
   code: [Python, SQL],
   tools: [Django, Flask, Docker],
-  architecture: ["microservices", "MVC"],
+  architecture: ["microservices", "MVC", "MVT"],
  challenge: "I am doing a little bit better every day !"
 }
 ```
