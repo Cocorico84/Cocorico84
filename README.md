@@ -12,7 +12,7 @@
 ```python
 corentin = {
   code: [Python, SQL],
-  tools: [Django, Flask, Docker, CircleIC, Heroku],
+  tools: [Django, Flask, Docker, CircleCI, Heroku],
   architecture: ["microservices", "MVC", "MVT"],
   challenge: "I am doing a little bit better every day !"
 }
