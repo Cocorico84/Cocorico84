@@ -1,6 +1,6 @@
 <h2> Hi, I'm Corentin ! </h2>
 <img align='right' src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="230">
-<p><em>Backend Developer at <a href="https://ooti.co/en/" target="_blank">Ooti</a>
+<p><em>Backend Developer at <a target="_blank" rel="noopener noreferrer" href="https://ooti.co/en/">Ooti</a>
 </em></p>
 
 
