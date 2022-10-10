@@ -1,6 +1,6 @@
 <h2> Hi, I'm Corentin ! </h2>
 <img align='right' src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="230">
-<p><em>Backend Developer at <a href="#" onclick='window.open("[https://ooti.co/en/](https://ooti.co/en/)");return false;'>Ooti</a>
+<p><em>Backend Developer at <a href="https://ooti.co/en/" >Ooti</a>
 </em></p>
 
 
