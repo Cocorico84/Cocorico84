@@ -23,3 +23,5 @@
   <img alt="GraphQL" src="https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
   <img alt="JWT" src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" />
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cocorico84&layout=compact&theme=github_dark&langs_count=10&hide=actionscript&v=1)](https://github.com/cocorico84/github-readme-stats)
